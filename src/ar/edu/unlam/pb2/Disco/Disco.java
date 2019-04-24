@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.Discos;
+package ar.edu.unlam.pb2.Disco;
 
 public class Disco {
 
